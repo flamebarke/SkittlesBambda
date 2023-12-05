@@ -20,4 +20,4 @@ I took a look at both Bambdas, combined some functions, added some extra code an
 
 It's super easy to modify this function, just add in new parameters or a whole new custom array if you are looking for something specific.
 
-![Bambda](/assets/img/bambdas/bamba.png)
+![Bambda](/bambda.png)
