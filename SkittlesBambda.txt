@@ -85,5 +85,3 @@ if (requestResponse.request().url() != null) {
     }
 }
 return false;
-
-return false;
