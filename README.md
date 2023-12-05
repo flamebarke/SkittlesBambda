@@ -6,7 +6,7 @@ This Burp Suite Bambda was inspired by this Bambda I stumbled across on github:
 
 [https://github.com/BugBountyzip/Bambdas](https://github.com/BugBountyzip/Bambdas)
 
-and this gist posted on X by @irsdl:
+and this code posted on X by @irsdl:
 
 [https://x.com/irsdl/status/1729261410830725368?s=20](https://x.com/irsdl/status/1729261410830725368?s=20)
 
